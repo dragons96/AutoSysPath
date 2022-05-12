@@ -1,12 +1,12 @@
 # Auto sys path
-## A python automatically adds the current project sys Path tool
+## A python automatically adds the current project sys path tool
 
-# Install:
+## Install:
 ```shell
 pip install toautosyspath 
 ```
 
-### Use example:
+## Example:
 example-project:  
 &nbsp;&nbsp;&nbsp;&nbsp;- package1  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- `__init__`.py  
