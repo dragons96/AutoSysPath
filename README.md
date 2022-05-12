@@ -1,4 +1,4 @@
-# Auto sys path
+# AutoSysPath
 ## A python automatically adds the current project sys path tool
 
 ## Install:
